@@ -31,11 +31,23 @@ html,css,js,bootstrap,materialui,react,redux,nodejs,express,mongodb
 
 ## Top Projects
 
+## Project 1
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 20px;">
+  <h3> [**VirtualVista**](https://github.com/aan1267/VirtualVista)</h3>
+  <p> VirtualVista offers direct peer-to-peer video connections with instant messaging </p>
+</div>
 
-- [**VirtualVista**](https://github.com/aan1267/VirtualVista): VirtualVista offers direct peer-to-peer video connections with instant messaging - 0 stars, Language: JavaScript, Forks: 0, Open Issues: 0
-- [**Pet-Adoption-Page**](https://github.com/aan1267/Pet-Adoption-Page): A project to help adopt pets - 0 stars, Language: HTML, Forks: 0, Open Issues: 0
-- [**aan1267**](https://github.com/aan1267/aan1267): This is my profile - 0 stars, Language: N/A, Forks: 0, Open Issues: 0
+## Project 2
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 20px;">
+  <h3> [**Pet-Adoption-Page**](https://github.com/aan1267/Pet-Adoption-Page)</h3>
+  <p> A project to help adopt pets</p>
+</div>
 
+## Project 3
+<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 20px;">
+  <h3>[Project Name 3](link-to-your-project)</h3>
+  <p>A brief description of what the project does.</p>
+</div>
 
 
 
