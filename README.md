@@ -1,7 +1,5 @@
 ## Hello, I am Aanchal Sharma
 
-
-
 ## About Me
 
 Frontend Developer | Exploring Backend 
@@ -17,36 +15,8 @@ Frontend Developer | Exploring Backend
 ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-## Hi, I am Aanchal Sharma
 
 
 
-## About Me
 
-Frontened Developer | Exploring Backend
-
-## Skills & Technologies
-
-html,css,js,bootstrap,materialui,react,redux,nodejs,express,mongodb
-
-## Top Projects
-
-<div style="display: flex; flex-direction: column; gap: 20px;">
-
-  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; background-color: #f9f9f9;">
-    <h3 style="margin: 0;"><a href="https://github.com/aan1267/VirtualVista" style="text-decoration: none; color: #333;">VirtualVista</a></h3>
-    <p>VirtualVista offers direct peer-to-peer video connections with instant messaging.</p>
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; background-color: #f9f9f9;">
-    <h3 style="margin: 0;"><a href="https://github.com/aan1267/Pet-Adoption-Page" style="text-decoration: none; color: #333;">Pet-Adoption-Page</h3>
-    <p>A project to help adopt pets.</p>
-  </div>
-
-  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; background-color: #f9f9f9;">
-    <h3 style="margin: 0;"><a href="https://github.com/aan1267/aan1267" style="text-decoration: none; color: #333;">aan1267</a></h3>
-    <p>This is my Github Profile.</p>
-  </div>
-
-</div>
 
