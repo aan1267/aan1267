@@ -31,23 +31,22 @@ html,css,js,bootstrap,materialui,react,redux,nodejs,express,mongodb
 
 ## Top Projects
 
-## Project 1
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 20px;">
-  <h3> [**VirtualVista**](https://github.com/aan1267/VirtualVista)</h3>
-  <p> VirtualVista offers direct peer-to-peer video connections with instant messaging </p>
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; background-color: #f9f9f9;">
+    <h3 style="margin: 0;"><a href="https://github.com/aan1267/VirtualVista" style="text-decoration: none; color: #333;">VirtualVista</a></h3>
+    <p>VirtualVista offers direct peer-to-peer video connections with instant messaging.</p>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; background-color: #f9f9f9;">
+    <h3 style="margin: 0;"><a href="https://github.com/aan1267/Pet-Adoption-Page" style="text-decoration: none; color: #333;">Pet-Adoption-Page</h3>
+    <p>A project to help adopt pets.</p>
+  </div>
+
+  <div style="border: 1px solid #ccc; border-radius: 5px; padding: 20px; background-color: #f9f9f9;">
+    <h3 style="margin: 0;"><a href="https://github.com/aan1267/aan1267" style="text-decoration: none; color: #333;">aan1267</a></h3>
+    <p>This is my Github Profile.</p>
+  </div>
+
 </div>
-
-## Project 2
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 20px;">
-  <h3> [**Pet-Adoption-Page**](https://github.com/aan1267/Pet-Adoption-Page)</h3>
-  <p> A project to help adopt pets</p>
-</div>
-
-## Project 3
-<div style="border: 1px solid #ccc; border-radius: 5px; padding: 15px; margin-bottom: 20px;">
-  <h3>[Project Name 3](link-to-your-project)</h3>
-  <p>A brief description of what the project does.</p>
-</div>
-
-
 
