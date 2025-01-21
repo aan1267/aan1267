@@ -15,8 +15,8 @@ Frontend Developer | Exploring Backend
 ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-[![Postman](https://img.icons8.com/ios/452/postman-api.png)](https://www.postman.com/yourprofile)
-![Git Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Git_logo_2.svg/1200px-Git_logo_2.svg.png)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
