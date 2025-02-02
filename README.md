@@ -1,6 +1,5 @@
-![Hello, I am Priya!](https://your-gif-url.com/hello.gif)
 
-
+## $\textcolor{yellow}{Hello\ I\ am\ Aanchal\ Sharma}$
 
 ## About Me
 
