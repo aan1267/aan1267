@@ -1,6 +1,4 @@
-
-##$${\color{lightblue}{Hello\ I\ am\ Aanchal\ Sharma}$$
-
+## $\textcolor{lightblue}{Hello\ I\ am\ Aanchal\ Sharma}$
 ## About Me
 
 Frontend Developer | Exploring Backend
