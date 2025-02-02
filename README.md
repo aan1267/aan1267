@@ -1,4 +1,5 @@
-<h1 style="color: blue; font-weight: bold;">🌟 Hello, I’m Priya Sharma! 🌟</h1>
+![Hello, I am Priya!](https://your-gif-url.com/hello.gif)
+
 
 
 ## About Me
