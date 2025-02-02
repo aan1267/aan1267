@@ -6,7 +6,7 @@
 
 ## About Me
 - 🔭 Focusing on FullStack (Frontend + Backend).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
+- 🌱 Trying to become an expert in Frontend development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2025 Goals: Learn Cloud on AWS ,Redux,Nextjs.
