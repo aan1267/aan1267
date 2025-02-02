@@ -1,4 +1,4 @@
-![Priya's Moving Name](https://yourgifurl.com/moving-name.gif)
+<h1 style="color: blue; font-weight: bold;">🌟 Hello, I’m Priya Sharma! 🌟</h1>
 
 
 ## About Me
