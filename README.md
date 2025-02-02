@@ -1,5 +1,5 @@
 
-##$\textcolor{yellow}\{Hello\ I\ am\ Aanchal\ Sharma}$
+##$${\color{lightblue}{Hello\ I\ am\ Aanchal\ Sharma}$$
 
 ## About Me
 
