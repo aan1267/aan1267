@@ -43,8 +43,8 @@
 <a href="https://github.com/aan1267/TravStay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aan1267&repo=TravStay&theme=algolia" />
 </a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=said7388&repo=Express-Postgres-blog&theme=algolia" />
+<a href="https://github.com/aan1267/VirtualVista">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aan1267&repo=VirtualVista&theme=algolia" />
 </a>
 
 
