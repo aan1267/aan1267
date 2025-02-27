@@ -9,7 +9,7 @@
 - 🌱 Trying to become an expert in Frontend development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn Cloud on AWS ,Redux,Nextjs.
+- 🥅 2025 Goals: Learn Redux,Nextjs.
 
 
 ---
