@@ -5,8 +5,8 @@
 </h1>
 
 ## About Me
-- 🔭 Focusing on FullStack (Frontend + Backend).😎
-- 🌱 Trying to become an expert in Frontend development ❤
+- 🔭Full-Stack Developer: Basic backend knowledge (RESTful APIs, Databases, Node.js) + Frontend Development.😎
+- 🌱 Currently focused on mastering frontend, but capable of building full-stack applications.❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2025 Goals: Learn Redux,Nextjs.
