@@ -5,11 +5,10 @@
 </h1>
 
 ## About Me
-- 🔭Full-Stack Developer: Basic backend knowledge (RESTful APIs, Databases, Node.js) + Frontend Development.😎
-- 🌱 Currently focused on mastering frontend, but capable of building full-stack applications.❤
-- 💻 I love exploring new tech stacks and building cool stuff.
+- 💻  MCA Student & Aspiring Full-Stack Developer with skills in Frontend (React, Next.js) and Backend (Node.js, Express, MongoDB).
+- 🌱 Currently focused on mastering frontend,❤
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn Redux,Nextjs.
+- 🥅 2025 Goals: Learn Redux toolkit,Nextjs.
 
 
 ---
