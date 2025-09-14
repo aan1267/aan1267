@@ -43,8 +43,8 @@
 <a href="https://github.com/aan1267/TravStay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aan1267&repo=TravStay&theme=algolia" />
 </a>
-<a href="https://github.com/aan1267/VirtualVista">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aan1267&repo=VirtualVista&theme=algolia" />
+<a href="https://github.com/aan1267/MyPortfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aan1267&repo=MyPortfolio/&theme=algolia" />
 </a>
 
 
