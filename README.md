@@ -5,7 +5,7 @@
 </h1>
 
 ## About Me
-- 💻  MCA Student & Aspiring Full-Stack Developer with skills in Frontend (React) and Backend (Node.js, Express, MongoDB).
+- 💻  MCA Student & Aspiring MERN Stack Developer with skills in Frontend (React) and Backend (Node.js, Express, MongoDB).
 - 📰 Reading tech documentation whenever possible.
 - 🥅 2026 Goals: Learn TYPESCRIPT ,Nextjs.
 
