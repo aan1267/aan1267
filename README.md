@@ -7,7 +7,7 @@
 ## About Me
 - 💻  MCA Student & Aspiring Full-Stack Developer with skills in Frontend (React) and Backend (Node.js, Express, MongoDB).
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2025 Goals: Learn Redux toolkit, Nextjs.
+- 🥅 2026 Goals: Learn TYPESCRIPT ,Nextjs.
 
 
 ---
