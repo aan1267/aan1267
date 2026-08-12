@@ -7,7 +7,7 @@
 ## About Me
 - 💻  MCA Student & Aspiring MERN Stack Developer with skills in Frontend (React) and Backend (Node.js, Express, MongoDB).
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2026 Goals: Learn TYPESCRIPT ,Nextjs.
+- 🥅 2026 Goals: • Stronger Backend  • Docker • TypeScript
 
 
 ---
